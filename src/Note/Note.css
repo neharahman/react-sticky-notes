@@ -1,0 +1,39 @@
+.header
+{
+    width:100%;
+    height:10vh;
+    background:black; 
+}
+span
+{
+    color:gray;
+}
+input
+{
+    border: none;
+    background: transparent;
+    outline: none;
+    font-size:1.5rem;
+    line-height: 30px;
+    width:100%;
+    font-weight:bold;
+}
+textarea
+{
+    border: none;
+    background: transparent;
+    outline: none;
+    font-size:1rem;
+    line-height: 30px;
+    width:100%;
+    margin:10px 0;
+}
+.card_note
+{
+    height:30vh;
+    width:100%;
+    background:rgba( 52, 125, 218, 0.35 ) !important;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border-radius:10px;
+    border:1px solid rgba( 255, 255, 255, 0.18 );
+}
